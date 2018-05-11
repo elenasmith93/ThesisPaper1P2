@@ -1,0 +1,409 @@
+,Geographic identifier code,Id2,Geographic area name,2007 NAICS code,Meaning of 2007 NAICS code,Year,Number of establishments,Employment,"First-quarter payroll ($1,000)","Annual payroll ($1,000)"
+0,0500000US09001,9001,"Fairfield County, Connecticut",0,Total for all sectors,2011,26725,398342,8792757,31039729
+21,0500000US09001,9001,"Fairfield County, Connecticut",0,Total for all sectors,2012,26814,405226,9061976,31140794
+42,0500000US09001,9001,"Fairfield County, Connecticut",0,Total for all sectors,2013,26972,403375,8721602,30707090
+63,0500000US09001,9001,"Fairfield County, Connecticut",0,Total for all sectors,2014,27022,408854,9245720,31863974
+84,0500000US09001,9001,"Fairfield County, Connecticut",0,Total for all sectors,2015,27190,421295,10550590,35199773
+105,0500000US09001,9001,"Fairfield County, Connecticut",0,Total for all sectors,2010,27027,393952,8377092,30225781
+126,0500000US09003,9003,"Hartford County, Connecticut",0,Total for all sectors,2011,22470,432172,6297931,23409971
+147,0500000US09003,9003,"Hartford County, Connecticut",0,Total for all sectors,2012,22477,441095,6700048,24837114
+168,0500000US09003,9003,"Hartford County, Connecticut",0,Total for all sectors,2013,22613,446375,6705668,25576762
+189,0500000US09003,9003,"Hartford County, Connecticut",0,Total for all sectors,2014,22531,442655,7003434,25956731
+210,0500000US09003,9003,"Hartford County, Connecticut",0,Total for all sectors,2015,22703,440169,7216726,26351778
+231,0500000US09003,9003,"Hartford County, Connecticut",0,Total for all sectors,2010,22843,442369,5940104,23082813
+252,0500000US09005,9005,"Litchfield County, Connecticut",0,Total for all sectors,2011,4909,51070,465477,2050328
+273,0500000US09005,9005,"Litchfield County, Connecticut",0,Total for all sectors,2012,4847,51703,478951,2042977
+294,0500000US09005,9005,"Litchfield County, Connecticut",0,Total for all sectors,2013,4782,51115,471431,2044029
+315,0500000US09005,9005,"Litchfield County, Connecticut",0,Total for all sectors,2014,4781,52087,484822,2115820
+336,0500000US09005,9005,"Litchfield County, Connecticut",0,Total for all sectors,2015,4806,51957,486220,2180278
+357,0500000US09005,9005,"Litchfield County, Connecticut",0,Total for all sectors,2010,4969,51583,442776,2003218
+378,0500000US09007,9007,"Middlesex County, Connecticut",0,Total for all sectors,2011,4139,58100,617703,2538946
+399,0500000US09007,9007,"Middlesex County, Connecticut",0,Total for all sectors,2012,4161,59873,641562,2676490
+420,0500000US09007,9007,"Middlesex County, Connecticut",0,Total for all sectors,2013,4147,60406,655162,2764963
+441,0500000US09007,9007,"Middlesex County, Connecticut",0,Total for all sectors,2014,4161,61384,670308,2867411
+462,0500000US09007,9007,"Middlesex County, Connecticut",0,Total for all sectors,2015,4202,60899,669132,2922831
+483,0500000US09007,9007,"Middlesex County, Connecticut",0,Total for all sectors,2010,4220,57798,583472,2406047
+504,0500000US09009,9009,"New Haven County, Connecticut",0,Total for all sectors,2011,19261,325467,3687158,15242931
+525,0500000US09009,9009,"New Haven County, Connecticut",0,Total for all sectors,2012,19360,325990,3936050,15814102
+546,0500000US09009,9009,"New Haven County, Connecticut",0,Total for all sectors,2013,19431,331081,3973417,16251990
+567,0500000US09009,9009,"New Haven County, Connecticut",0,Total for all sectors,2014,19467,338587,4115842,16613901
+588,0500000US09009,9009,"New Haven County, Connecticut",0,Total for all sectors,2015,19566,335845,4145788,16945013
+609,0500000US09009,9009,"New Haven County, Connecticut",0,Total for all sectors,2010,19607,321031,3552361,15058976
+630,0500000US09011,9011,"New London County, Connecticut",0,Total for all sectors,2011,5675,105276,1220094,4777065
+651,0500000US09011,9011,"New London County, Connecticut",0,Total for all sectors,2012,5706,104801,1250898,4779853
+672,0500000US09011,9011,"New London County, Connecticut",0,Total for all sectors,2013,5698,103244,1235982,5107136
+693,0500000US09011,9011,"New London County, Connecticut",0,Total for all sectors,2014,5732,102281,1235341,4882308
+714,0500000US09011,9011,"New London County, Connecticut",0,Total for all sectors,2015,5805,102909,1322117,5096430
+735,0500000US09011,9011,"New London County, Connecticut",0,Total for all sectors,2010,5791,107017,1206476,4738808
+756,0500000US09013,9013,"Tolland County, Connecticut",0,Total for all sectors,2011,2398,29450,238805,1059292
+777,0500000US09013,9013,"Tolland County, Connecticut",0,Total for all sectors,2012,2416,30296,247846,1052491
+798,0500000US09013,9013,"Tolland County, Connecticut",0,Total for all sectors,2013,2398,30798,249891,1070343
+819,0500000US09013,9013,"Tolland County, Connecticut",0,Total for all sectors,2014,2418,32223,271419,1170235
+840,0500000US09013,9013,"Tolland County, Connecticut",0,Total for all sectors,2015,2433,32903,271585,1163627
+861,0500000US09013,9013,"Tolland County, Connecticut",0,Total for all sectors,2010,2486,29156,228140,1014366
+882,0500000US09015,9015,"Windham County, Connecticut",0,Total for all sectors,2011,2097,28805,254935,1085258
+903,0500000US09015,9015,"Windham County, Connecticut",0,Total for all sectors,2012,2099,29886,267215,1126489
+924,0500000US09015,9015,"Windham County, Connecticut",0,Total for all sectors,2013,2092,29397,266684,1129300
+945,0500000US09015,9015,"Windham County, Connecticut",0,Total for all sectors,2014,2052,30180,274144,1175558
+966,0500000US09015,9015,"Windham County, Connecticut",0,Total for all sectors,2015,2048,30354,269964,1177874
+987,0500000US09015,9015,"Windham County, Connecticut",0,Total for all sectors,2010,2149,28270,226225,1005447
+1008,0500000US23001,23001,"Androscoggin County, Maine",0,Total for all sectors,2011,2749,43155,363998,1544995
+1028,0500000US23001,23001,"Androscoggin County, Maine",0,Total for all sectors,2012,2693,44673,387356,1659609
+1048,0500000US23001,23001,"Androscoggin County, Maine",0,Total for all sectors,2013,2678,43936,380787,1604017
+1068,0500000US23001,23001,"Androscoggin County, Maine",0,Total for all sectors,2014,2667,44283,396968,1681322
+1088,0500000US23001,23001,"Androscoggin County, Maine",0,Total for all sectors,2015,2706,45347,408020,1763849
+1108,0500000US23001,23001,"Androscoggin County, Maine",0,Total for all sectors,2010,2767,43808,345286,1505623
+1128,0500000US23003,23003,"Aroostook County, Maine",0,Total for all sectors,2011,2005,22038,166231,685100
+1149,0500000US23003,23003,"Aroostook County, Maine",0,Total for all sectors,2012,2000,20838,159596,653018
+1170,0500000US23003,23003,"Aroostook County, Maine",0,Total for all sectors,2013,2000,21157,164589,676764
+1191,0500000US23003,23003,"Aroostook County, Maine",0,Total for all sectors,2014,1974,21024,166676,677319
+1212,0500000US23003,23003,"Aroostook County, Maine",0,Total for all sectors,2015,2000,21282,169363,716531
+1233,0500000US23003,23003,"Aroostook County, Maine",0,Total for all sectors,2010,2025,21896,150002,636206
+1254,0500000US23005,23005,"Cumberland County, Maine",0,Total for all sectors,2011,10743,153928,1586502,6495076
+1275,0500000US23005,23005,"Cumberland County, Maine",0,Total for all sectors,2012,10870,158086,1721283,6859615
+1296,0500000US23005,23005,"Cumberland County, Maine",0,Total for all sectors,2013,10902,158929,1771519,6995368
+1317,0500000US23005,23005,"Cumberland County, Maine",0,Total for all sectors,2014,10926,160331,1826250,7374512
+1338,0500000US23005,23005,"Cumberland County, Maine",0,Total for all sectors,2015,11191,165345,1863323,7676774
+1359,0500000US23005,23005,"Cumberland County, Maine",0,Total for all sectors,2010,10900,154313,1509845,6332007
+1380,0500000US23007,23007,"Franklin County, Maine",0,Total for all sectors,2011,793,9255,64534,257098
+1400,0500000US23007,23007,"Franklin County, Maine",0,Total for all sectors,2012,802,9095,65634,262098
+1420,0500000US23007,23007,"Franklin County, Maine",0,Total for all sectors,2013,821,9064,67131,263477
+1440,0500000US23007,23007,"Franklin County, Maine",0,Total for all sectors,2014,814,9147,70639,285506
+1460,0500000US23007,23007,"Franklin County, Maine",0,Total for all sectors,2015,814,9464,71697,290628
+1480,0500000US23007,23007,"Franklin County, Maine",0,Total for all sectors,2010,798,9021,61895,254640
+1500,0500000US23009,23009,"Hancock County, Maine",0,Total for all sectors,2011,2155,16589,131594,627921
+1521,0500000US23009,23009,"Hancock County, Maine",0,Total for all sectors,2012,2154,16691,137897,635410
+1542,0500000US23009,23009,"Hancock County, Maine",0,Total for all sectors,2013,2191,16236,134310,627611
+1563,0500000US23009,23009,"Hancock County, Maine",0,Total for all sectors,2014,2179,16598,143258,671765
+1584,0500000US23009,23009,"Hancock County, Maine",0,Total for all sectors,2015,2225,16774,142520,678499
+1605,0500000US23009,23009,"Hancock County, Maine",0,Total for all sectors,2010,2162,16427,128441,610779
+1626,0500000US23011,23011,"Kennebec County, Maine",0,Total for all sectors,2011,3242,43377,364011,1530267
+1647,0500000US23011,23011,"Kennebec County, Maine",0,Total for all sectors,2012,3239,43827,382636,1596402
+1668,0500000US23011,23011,"Kennebec County, Maine",0,Total for all sectors,2013,3219,45311,392566,1625713
+1689,0500000US23011,23011,"Kennebec County, Maine",0,Total for all sectors,2014,3218,45581,402895,1698359
+1710,0500000US23011,23011,"Kennebec County, Maine",0,Total for all sectors,2015,3203,45976,402170,1729544
+1731,0500000US23011,23011,"Kennebec County, Maine",0,Total for all sectors,2010,3323,43645,343671,1474986
+1752,0500000US23013,23013,"Knox County, Maine",0,Total for all sectors,2011,1681,13229,97108,441609
+1772,0500000US23013,23013,"Knox County, Maine",0,Total for all sectors,2012,1688,13508,108902,463804
+1792,0500000US23013,23013,"Knox County, Maine",0,Total for all sectors,2013,1701,13515,104254,468804
+1812,0500000US23013,23013,"Knox County, Maine",0,Total for all sectors,2014,1715,14166,111057,496853
+1832,0500000US23013,23013,"Knox County, Maine",0,Total for all sectors,2015,1734,14160,115291,522548
+1852,0500000US23013,23013,"Knox County, Maine",0,Total for all sectors,2010,1719,13737,95323,436720
+1871,0500000US23015,23015,"Lincoln County, Maine",0,Total for all sectors,2011,1393,8317,61188,277055
+1892,0500000US23015,23015,"Lincoln County, Maine",0,Total for all sectors,2012,1372,8444,60066,275017
+1913,0500000US23015,23015,"Lincoln County, Maine",0,Total for all sectors,2013,1394,8512,61993,284579
+1934,0500000US23015,23015,"Lincoln County, Maine",0,Total for all sectors,2014,1395,8374,64829,292867
+1955,0500000US23015,23015,"Lincoln County, Maine",0,Total for all sectors,2015,1374,8272,64870,304546
+1976,0500000US23015,23015,"Lincoln County, Maine",0,Total for all sectors,2010,1409,8491,57619,272858
+1997,0500000US23017,23017,"Oxford County, Maine",0,Total for all sectors,2011,1288,14061,106092,450183
+2018,0500000US23017,23017,"Oxford County, Maine",0,Total for all sectors,2012,1281,13817,107034,468237
+2039,0500000US23017,23017,"Oxford County, Maine",0,Total for all sectors,2013,1287,14320,113731,459384
+2060,0500000US23017,23017,"Oxford County, Maine",0,Total for all sectors,2014,1286,14225,113388,473898
+2081,0500000US23017,23017,"Oxford County, Maine",0,Total for all sectors,2015,1306,14138,114978,474153
+2102,0500000US23017,23017,"Oxford County, Maine",0,Total for all sectors,2010,1335,14041,99705,436426
+2123,0500000US23019,23019,"Penobscot County, Maine",0,Total for all sectors,2011,4127,57082,456240,1948316
+2144,0500000US23019,23019,"Penobscot County, Maine",0,Total for all sectors,2012,4090,57893,484563,2000535
+2164,0500000US23019,23019,"Penobscot County, Maine",0,Total for all sectors,2013,4104,57343,488746,2011529
+2185,0500000US23019,23019,"Penobscot County, Maine",0,Total for all sectors,2014,4138,57535,486691,2024754
+2206,0500000US23019,23019,"Penobscot County, Maine",0,Total for all sectors,2015,4109,57350,503992,2159668
+2227,0500000US23019,23019,"Penobscot County, Maine",0,Total for all sectors,2010,4193,57599,453559,1961758
+2248,0500000US23021,23021,"Piscataquis County, Maine",0,Total for all sectors,2011,436,4445,29326,126584
+2267,0500000US23021,23021,"Piscataquis County, Maine",0,Total for all sectors,2012,437,4609,33043,136844
+2286,0500000US23021,23021,"Piscataquis County, Maine",0,Total for all sectors,2013,439,4304,32016,133261
+2306,0500000US23021,23021,"Piscataquis County, Maine",0,Total for all sectors,2014,436,4543,34013,145052
+2326,0500000US23021,23021,"Piscataquis County, Maine",0,Total for all sectors,2015,438,4575,34556,146547
+2346,0500000US23021,23021,"Piscataquis County, Maine",0,Total for all sectors,2010,435,4435,27473,122375
+2366,0500000US23023,23023,"Sagadahoc County, Maine",0,Total for all sectors,2011,889,13007,140712,556640
+2386,0500000US23023,23023,"Sagadahoc County, Maine",0,Total for all sectors,2012,924,13026,145390,563470
+2405,0500000US23023,23023,"Sagadahoc County, Maine",0,Total for all sectors,2013,903,12658,142139,578501
+2425,0500000US23023,23023,"Sagadahoc County, Maine",0,Total for all sectors,2014,923,13169,147600,616065
+2445,0500000US23023,23023,"Sagadahoc County, Maine",0,Total for all sectors,2015,912,13596,148178,641770
+2464,0500000US23023,23023,"Sagadahoc County, Maine",0,Total for all sectors,2010,949,13362,138172,558661
+2484,0500000US23025,23025,"Somerset County, Maine",0,Total for all sectors,2011,1158,13511,112798,484082
+2504,0500000US23025,23025,"Somerset County, Maine",0,Total for all sectors,2012,1168,13480,118610,502538
+2523,0500000US23025,23025,"Somerset County, Maine",0,Total for all sectors,2013,1172,13570,119018,506977
+2543,0500000US23025,23025,"Somerset County, Maine",0,Total for all sectors,2014,1173,13870,127999,542676
+2563,0500000US23025,23025,"Somerset County, Maine",0,Total for all sectors,2015,1164,13549,124795,519479
+2583,0500000US23025,23025,"Somerset County, Maine",0,Total for all sectors,2010,1167,13563,108368,479626
+2603,0500000US23027,23027,"Waldo County, Maine",0,Total for all sectors,2011,966,8393,66174,277321
+2624,0500000US23027,23027,"Waldo County, Maine",0,Total for all sectors,2012,957,8480,68903,281413
+2644,0500000US23027,23027,"Waldo County, Maine",0,Total for all sectors,2013,956,8423,70171,289210
+2664,0500000US23027,23027,"Waldo County, Maine",0,Total for all sectors,2014,967,8644,70967,300371
+2685,0500000US23027,23027,"Waldo County, Maine",0,Total for all sectors,2015,981,8662,71198,311054
+2706,0500000US23027,23027,"Waldo County, Maine",0,Total for all sectors,2010,972,8451,62664,269351
+2727,0500000US23029,23029,"Washington County, Maine",0,Total for all sectors,2011,853,7189,51952,219532
+2748,0500000US23029,23029,"Washington County, Maine",0,Total for all sectors,2012,840,7327,54623,225684
+2768,0500000US23029,23029,"Washington County, Maine",0,Total for all sectors,2013,836,7039,52175,227489
+2789,0500000US23029,23029,"Washington County, Maine",0,Total for all sectors,2014,828,7000,53599,231635
+2810,0500000US23029,23029,"Washington County, Maine",0,Total for all sectors,2015,839,6763,54555,241800
+2831,0500000US23029,23029,"Washington County, Maine",0,Total for all sectors,2010,862,6919,48936,212455
+2852,0500000US23031,23031,"York County, Maine",0,Total for all sectors,2011,5430,50506,380469,1719456
+2873,0500000US23031,23031,"York County, Maine",0,Total for all sectors,2012,5430,51477,405994,1781219
+2894,0500000US23031,23031,"York County, Maine",0,Total for all sectors,2013,5440,50703,417578,1832391
+2915,0500000US23031,23031,"York County, Maine",0,Total for all sectors,2014,5500,51699,436340,1939717
+2936,0500000US23031,23031,"York County, Maine",0,Total for all sectors,2015,5537,52357,447771,2022026
+2957,0500000US23031,23031,"York County, Maine",0,Total for all sectors,2010,5482,50480,361297,1667802
+2978,0500000US25001,25001,"Barnstable County, Massachusetts",0,Total for all sectors,2011,8116,68452,580017,2766165
+2999,0500000US25001,25001,"Barnstable County, Massachusetts",0,Total for all sectors,2012,8262,69710,633265,2896388
+3020,0500000US25001,25001,"Barnstable County, Massachusetts",0,Total for all sectors,2013,8323,71779,655679,3003417
+3041,0500000US25001,25001,"Barnstable County, Massachusetts",0,Total for all sectors,2014,8390,72254,673166,3134226
+3062,0500000US25001,25001,"Barnstable County, Massachusetts",0,Total for all sectors,2015,8488,74140,687463,3292880
+3083,0500000US25001,25001,"Barnstable County, Massachusetts",0,Total for all sectors,2010,8214,68819,560148,2697356
+3104,0500000US25003,25003,"Berkshire County, Massachusetts",0,Total for all sectors,2011,3985,53110,500427,2085362
+3125,0500000US25003,25003,"Berkshire County, Massachusetts",0,Total for all sectors,2012,3992,53712,525144,2119530
+3146,0500000US25003,25003,"Berkshire County, Massachusetts",0,Total for all sectors,2013,3928,53041,521308,2135452
+3167,0500000US25003,25003,"Berkshire County, Massachusetts",0,Total for all sectors,2014,3900,52802,534873,2191668
+3188,0500000US25003,25003,"Berkshire County, Massachusetts",0,Total for all sectors,2015,3868,53467,538568,2290710
+3209,0500000US25003,25003,"Berkshire County, Massachusetts",0,Total for all sectors,2010,4029,53706,456682,2016427
+3230,0500000US25005,25005,"Bristol County, Massachusetts",0,Total for all sectors,2011,12637,192687,1796299,7727245
+3251,0500000US25005,25005,"Bristol County, Massachusetts",0,Total for all sectors,2012,12679,196479,1911516,8098177
+3272,0500000US25005,25005,"Bristol County, Massachusetts",0,Total for all sectors,2013,12730,193082,1862950,7914184
+3293,0500000US25005,25005,"Bristol County, Massachusetts",0,Total for all sectors,2014,12703,192140,1953805,8240643
+3314,0500000US25005,25005,"Bristol County, Massachusetts",0,Total for all sectors,2015,12686,195213,2019269,8521939
+3335,0500000US25005,25005,"Bristol County, Massachusetts",0,Total for all sectors,2010,12804,192766,1769263,7685785
+3356,0500000US25007,25007,"Dukes County, Massachusetts",0,Total for all sectors,2011,1019,4935,45691,247086
+3376,0500000US25007,25007,"Dukes County, Massachusetts",0,Total for all sectors,2012,1033,5271,50054,262571
+3396,0500000US25007,25007,"Dukes County, Massachusetts",0,Total for all sectors,2013,1036,5322,51432,276598
+3416,0500000US25007,25007,"Dukes County, Massachusetts",0,Total for all sectors,2014,1062,5239,53890,288767
+3436,0500000US25007,25007,"Dukes County, Massachusetts",0,Total for all sectors,2015,1071,5377,56569,315312
+3456,0500000US25007,25007,"Dukes County, Massachusetts",0,Total for all sectors,2010,1007,4827,44701,242551
+3476,0500000US25009,25009,"Essex County, Massachusetts",0,Total for all sectors,2011,17874,267837,3003815,12803698
+3497,0500000US25009,25009,"Essex County, Massachusetts",0,Total for all sectors,2012,18115,274147,3174524,13039471
+3518,0500000US25009,25009,"Essex County, Massachusetts",0,Total for all sectors,2013,18277,275283,3164692,13109161
+3539,0500000US25009,25009,"Essex County, Massachusetts",0,Total for all sectors,2014,18332,281447,3407865,13984085
+3560,0500000US25009,25009,"Essex County, Massachusetts",0,Total for all sectors,2015,18453,282412,3373677,14334286
+3581,0500000US25009,25009,"Essex County, Massachusetts",0,Total for all sectors,2010,17877,263022,2789622,12276442
+3602,0500000US25011,25011,"Franklin County, Massachusetts",0,Total for all sectors,2011,1571,19931,170041,706656
+3623,0500000US25011,25011,"Franklin County, Massachusetts",0,Total for all sectors,2012,1603,19425,170873,704523
+3643,0500000US25011,25011,"Franklin County, Massachusetts",0,Total for all sectors,2013,1584,19917,182588,764821
+3663,0500000US25011,25011,"Franklin County, Massachusetts",0,Total for all sectors,2014,1579,19620,185929,765384
+3684,0500000US25011,25011,"Franklin County, Massachusetts",0,Total for all sectors,2015,1582,20104,189920,812431
+3705,0500000US25011,25011,"Franklin County, Massachusetts",0,Total for all sectors,2010,1590,19387,160618,693851
+3726,0500000US25013,25013,"Hampden County, Massachusetts",0,Total for all sectors,2011,9652,163486,1583392,6568817
+3747,0500000US25013,25013,"Hampden County, Massachusetts",0,Total for all sectors,2012,9683,164298,1673963,6848525
+3768,0500000US25013,25013,"Hampden County, Massachusetts",0,Total for all sectors,2013,9661,167480,1758012,7061406
+3789,0500000US25013,25013,"Hampden County, Massachusetts",0,Total for all sectors,2014,9669,166806,1819397,7292607
+3810,0500000US25013,25013,"Hampden County, Massachusetts",0,Total for all sectors,2015,9600,167383,1790345,7434306
+3831,0500000US25013,25013,"Hampden County, Massachusetts",0,Total for all sectors,2010,9709,163812,1522527,6441395
+3852,0500000US25015,25015,"Hampshire County, Massachusetts",0,Total for all sectors,2011,3459,55451,401744,1707993
+3873,0500000US25015,25015,"Hampshire County, Massachusetts",0,Total for all sectors,2012,3510,56979,436817,1789208
+3894,0500000US25015,25015,"Hampshire County, Massachusetts",0,Total for all sectors,2013,3562,57927,442526,1837037
+3915,0500000US25015,25015,"Hampshire County, Massachusetts",0,Total for all sectors,2014,3548,58693,454650,1915668
+3936,0500000US25015,25015,"Hampshire County, Massachusetts",0,Total for all sectors,2015,3576,60573,493104,2044461
+3957,0500000US25015,25015,"Hampshire County, Massachusetts",0,Total for all sectors,2010,3541,55180,391439,1685698
+3978,0500000US25017,25017,"Middlesex County, Massachusetts",0,Total for all sectors,2011,41961,802736,13202084,53710684
+3999,0500000US25017,25017,"Middlesex County, Massachusetts",0,Total for all sectors,2012,42454,821275,14220076,56173092
+4020,0500000US25017,25017,"Middlesex County, Massachusetts",0,Total for all sectors,2013,42830,844090,14708562,58326731
+4041,0500000US25017,25017,"Middlesex County, Massachusetts",0,Total for all sectors,2014,43131,848024,15661991,60649079
+4062,0500000US25017,25017,"Middlesex County, Massachusetts",0,Total for all sectors,2015,43548,869949,17127468,65697928
+4083,0500000US25017,25017,"Middlesex County, Massachusetts",0,Total for all sectors,2010,42001,791554,12059953,50873266
+4104,0500000US25019,25019,"Nantucket County, Massachusetts",0,Total for all sectors,2011,883,3560,39132,229484
+4125,0500000US25019,25019,"Nantucket County, Massachusetts",0,Total for all sectors,2012,921,3948,41742,242733
+4145,0500000US25019,25019,"Nantucket County, Massachusetts",0,Total for all sectors,2013,934,4400,43718,263354
+4165,0500000US25019,25019,"Nantucket County, Massachusetts",0,Total for all sectors,2014,985,4377,49268,288631
+4186,0500000US25019,25019,"Nantucket County, Massachusetts",0,Total for all sectors,2015,996,4300,49906,310578
+4207,0500000US25019,25019,"Nantucket County, Massachusetts",0,Total for all sectors,2010,887,3633,35973,216729
+4228,0500000US25021,25021,"Norfolk County, Massachusetts",0,Total for all sectors,2011,18987,312576,3798170,15537493
+4249,0500000US25021,25021,"Norfolk County, Massachusetts",0,Total for all sectors,2012,19378,321562,4200715,16686347
+4270,0500000US25021,25021,"Norfolk County, Massachusetts",0,Total for all sectors,2013,19597,329894,4400038,17466142
+4291,0500000US25021,25021,"Norfolk County, Massachusetts",0,Total for all sectors,2014,19637,334197,4577287,18101007
+4312,0500000US25021,25021,"Norfolk County, Massachusetts",0,Total for all sectors,2015,19893,340091,4603876,18770873
+4333,0500000US25021,25021,"Norfolk County, Massachusetts",0,Total for all sectors,2010,19033,307860,3588105,15241930
+4354,0500000US25023,25023,"Plymouth County, Massachusetts",0,Total for all sectors,2011,11740,147825,1420510,6212970
+4375,0500000US25023,25023,"Plymouth County, Massachusetts",0,Total for all sectors,2012,11838,151389,1521738,6522971
+4396,0500000US25023,25023,"Plymouth County, Massachusetts",0,Total for all sectors,2013,11922,156526,1597360,6843659
+4417,0500000US25023,25023,"Plymouth County, Massachusetts",0,Total for all sectors,2014,12020,162524,1706940,7383340
+4438,0500000US25023,25023,"Plymouth County, Massachusetts",0,Total for all sectors,2015,12157,163503,1732424,7699004
+4459,0500000US25023,25023,"Plymouth County, Massachusetts",0,Total for all sectors,2010,11786,145545,1350204,6020712
+4480,0500000US25025,25025,"Suffolk County, Massachusetts",0,Total for all sectors,2011,19436,550649,10865324,40711776
+4501,0500000US25025,25025,"Suffolk County, Massachusetts",0,Total for all sectors,2012,19827,586037,12066678,43749823
+4522,0500000US25025,25025,"Suffolk County, Massachusetts",0,Total for all sectors,2013,20121,588364,12111160,44920879
+4543,0500000US25025,25025,"Suffolk County, Massachusetts",0,Total for all sectors,2014,20495,572232,12763044,45658952
+4564,0500000US25025,25025,"Suffolk County, Massachusetts",0,Total for all sectors,2015,20896,595158,13726613,49555481
+4585,0500000US25025,25025,"Suffolk County, Massachusetts",0,Total for all sectors,2010,19525,556104,10410724,39422039
+4606,0500000US25027,25027,"Worcester County, Massachusetts",0,Total for all sectors,2011,17421,270224,2892308,12169715
+4627,0500000US25027,25027,"Worcester County, Massachusetts",0,Total for all sectors,2012,17646,279167,3053689,12426858
+4648,0500000US25027,25027,"Worcester County, Massachusetts",0,Total for all sectors,2013,17635,281520,3105977,12842832
+4669,0500000US25027,25027,"Worcester County, Massachusetts",0,Total for all sectors,2014,17661,283752,3220379,13250036
+4690,0500000US25027,25027,"Worcester County, Massachusetts",0,Total for all sectors,2015,17812,288933,3311870,13966087
+4711,0500000US25027,25027,"Worcester County, Massachusetts",0,Total for all sectors,2010,17625,267175,2642564,11459203
+4732,0500000US33001,33001,"Belknap County, New Hampshire",0,Total for all sectors,2011,1788,20765,169955,744599
+4753,0500000US33001,33001,"Belknap County, New Hampshire",0,Total for all sectors,2012,1762,20350,168124,735928
+4774,0500000US33001,33001,"Belknap County, New Hampshire",0,Total for all sectors,2013,1763,20289,173834,773999
+4795,0500000US33001,33001,"Belknap County, New Hampshire",0,Total for all sectors,2014,1786,21009,186185,820827
+4816,0500000US33001,33001,"Belknap County, New Hampshire",0,Total for all sectors,2015,1780,21359,187701,870983
+4837,0500000US33001,33001,"Belknap County, New Hampshire",0,Total for all sectors,2010,1831,20825,154042,723367
+4858,0500000US33003,33003,"Carroll County, New Hampshire",0,Total for all sectors,2011,1820,17152,112483,506230
+4879,0500000US33003,33003,"Carroll County, New Hampshire",0,Total for all sectors,2012,1833,16780,118100,517969
+4900,0500000US33003,33003,"Carroll County, New Hampshire",0,Total for all sectors,2013,1834,16624,117273,524288
+4921,0500000US33003,33003,"Carroll County, New Hampshire",0,Total for all sectors,2014,1833,16986,121595,548395
+4942,0500000US33003,33003,"Carroll County, New Hampshire",0,Total for all sectors,2015,1849,17023,120238,558173
+4963,0500000US33003,33003,"Carroll County, New Hampshire",0,Total for all sectors,2010,1879,17479,109185,499453
+4984,0500000US33005,33005,"Cheshire County, New Hampshire",0,Total for all sectors,2011,1907,27870,246589,1059243
+5005,0500000US33005,33005,"Cheshire County, New Hampshire",0,Total for all sectors,2012,1901,28053,247151,1054564
+5025,0500000US33005,33005,"Cheshire County, New Hampshire",0,Total for all sectors,2013,1905,27313,251472,1070131
+5046,0500000US33005,33005,"Cheshire County, New Hampshire",0,Total for all sectors,2014,1904,27644,253035,1102965
+5067,0500000US33005,33005,"Cheshire County, New Hampshire",0,Total for all sectors,2015,1900,27494,266132,1120360
+5088,0500000US33005,33005,"Cheshire County, New Hampshire",0,Total for all sectors,2010,1924,28232,243914,1062391
+5109,0500000US33007,33007,"Coos County, New Hampshire",0,Total for all sectors,2011,891,9606,69216,291068
+5130,0500000US33007,33007,"Coos County, New Hampshire",0,Total for all sectors,2012,888,9270,68679,289314
+5151,0500000US33007,33007,"Coos County, New Hampshire",0,Total for all sectors,2013,854,9065,70092,295155
+5172,0500000US33007,33007,"Coos County, New Hampshire",0,Total for all sectors,2014,849,8984,70529,294695
+5193,0500000US33007,33007,"Coos County, New Hampshire",0,Total for all sectors,2015,853,8668,67205,295500
+5214,0500000US33007,33007,"Coos County, New Hampshire",0,Total for all sectors,2010,909,9752,65460,289784
+5234,0500000US33009,33009,"Grafton County, New Hampshire",0,Total for all sectors,2011,2896,48525,506217,2115690
+5255,0500000US33009,33009,"Grafton County, New Hampshire",0,Total for all sectors,2012,2908,47078,510794,2121389
+5276,0500000US33009,33009,"Grafton County, New Hampshire",0,Total for all sectors,2013,2867,47625,541963,2207946
+5297,0500000US33009,33009,"Grafton County, New Hampshire",0,Total for all sectors,2014,2871,48171,561009,2325238
+5318,0500000US33009,33009,"Grafton County, New Hampshire",0,Total for all sectors,2015,2842,49398,577277,2393302
+5339,0500000US33009,33009,"Grafton County, New Hampshire",0,Total for all sectors,2010,2925,53114,490018,2060082
+5360,0500000US33011,33011,"Hillsborough County, New Hampshire",0,Total for all sectors,2011,10635,176356,2071769,8715895
+5381,0500000US33011,33011,"Hillsborough County, New Hampshire",0,Total for all sectors,2012,10701,170366,1970414,8102000
+5402,0500000US33011,33011,"Hillsborough County, New Hampshire",0,Total for all sectors,2013,10764,173304,2080615,8534018
+5423,0500000US33011,33011,"Hillsborough County, New Hampshire",0,Total for all sectors,2014,10889,180527,2369278,9692661
+5444,0500000US33011,33011,"Hillsborough County, New Hampshire",0,Total for all sectors,2015,10938,179115,2291874,9592994
+5465,0500000US33011,33011,"Hillsborough County, New Hampshire",0,Total for all sectors,2010,10827,177473,2180940,9048951
+5486,0500000US33013,33013,"Merrimack County, New Hampshire",0,Total for all sectors,2011,4060,58812,537188,2308543
+5507,0500000US33013,33013,"Merrimack County, New Hampshire",0,Total for all sectors,2012,4073,60573,586275,2442976
+5528,0500000US33013,33013,"Merrimack County, New Hampshire",0,Total for all sectors,2013,4031,60018,594587,2499710
+5549,0500000US33013,33013,"Merrimack County, New Hampshire",0,Total for all sectors,2014,3979,60791,619093,2627182
+5570,0500000US33013,33013,"Merrimack County, New Hampshire",0,Total for all sectors,2015,4011,62229,649489,2929715
+5591,0500000US33013,33013,"Merrimack County, New Hampshire",0,Total for all sectors,2010,4104,58478,515170,2247516
+5612,0500000US33015,33015,"Rockingham County, New Hampshire",0,Total for all sectors,2011,9322,124294,1254628,5406099
+5633,0500000US33015,33015,"Rockingham County, New Hampshire",0,Total for all sectors,2012,9433,127326,1335775,5623534
+5654,0500000US33015,33015,"Rockingham County, New Hampshire",0,Total for all sectors,2013,9422,128330,1378101,5792077
+5675,0500000US33015,33015,"Rockingham County, New Hampshire",0,Total for all sectors,2014,9490,129125,1463430,6106265
+5696,0500000US33015,33015,"Rockingham County, New Hampshire",0,Total for all sectors,2015,9623,133465,1527932,6491389
+5717,0500000US33015,33015,"Rockingham County, New Hampshire",0,Total for all sectors,2010,9453,125033,1204665,5226637
+5738,0500000US33017,33017,"Strafford County, New Hampshire",0,Total for all sectors,2011,2476,35146,361450,1532099
+5759,0500000US33017,33017,"Strafford County, New Hampshire",0,Total for all sectors,2012,2531,35743,384368,1562711
+5780,0500000US33017,33017,"Strafford County, New Hampshire",0,Total for all sectors,2013,2536,35159,376841,1546079
+5801,0500000US33017,33017,"Strafford County, New Hampshire",0,Total for all sectors,2014,2581,36242,407301,1646201
+5822,0500000US33017,33017,"Strafford County, New Hampshire",0,Total for all sectors,2015,2600,37000,413253,1692652
+5843,0500000US33017,33017,"Strafford County, New Hampshire",0,Total for all sectors,2010,2516,35704,348283,1454803
+5864,0500000US33019,33019,"Sullivan County, New Hampshire",0,Total for all sectors,2011,974,10768,83237,403068
+5884,0500000US33019,33019,"Sullivan County, New Hampshire",0,Total for all sectors,2012,945,11011,95535,423746
+5903,0500000US33019,33019,"Sullivan County, New Hampshire",0,Total for all sectors,2013,937,11609,101216,451622
+5923,0500000US33019,33019,"Sullivan County, New Hampshire",0,Total for all sectors,2014,913,11664,104412,455475
+5943,0500000US33019,33019,"Sullivan County, New Hampshire",0,Total for all sectors,2015,910,11736,100455,454259
+5964,0500000US33019,33019,"Sullivan County, New Hampshire",0,Total for all sectors,2010,988,10733,84039,393592
+5984,0500000US44001,44001,"Bristol County, Rhode Island",0,Total for all sectors,2011,1208,13446,88515,390253
+6004,0500000US44001,44001,"Bristol County, Rhode Island",0,Total for all sectors,2012,1228,12342,94204,404174
+6024,0500000US44001,44001,"Bristol County, Rhode Island",0,Total for all sectors,2013,1231,12710,95542,418996
+6044,0500000US44001,44001,"Bristol County, Rhode Island",0,Total for all sectors,2014,1227,14219,102660,448340
+6064,0500000US44001,44001,"Bristol County, Rhode Island",0,Total for all sectors,2015,1237,13764,103351,460600
+6084,0500000US44001,44001,"Bristol County, Rhode Island",0,Total for all sectors,2010,1230,13144,82101,374648
+6104,0500000US44003,44003,"Kent County, Rhode Island",0,Total for all sectors,2011,4734,66624,669156,2740700
+6124,0500000US44003,44003,"Kent County, Rhode Island",0,Total for all sectors,2012,4667,67107,684654,2730188
+6145,0500000US44003,44003,"Kent County, Rhode Island",0,Total for all sectors,2013,4638,68044,692316,2796118
+6166,0500000US44003,44003,"Kent County, Rhode Island",0,Total for all sectors,2014,4668,68240,723353,2873906
+6187,0500000US44003,44003,"Kent County, Rhode Island",0,Total for all sectors,2015,4682,69893,740523,2997370
+6208,0500000US44003,44003,"Kent County, Rhode Island",0,Total for all sectors,2010,4817,68851,653446,2730187
+6228,0500000US44005,44005,"Newport County, Rhode Island",0,Total for all sectors,2011,2713,28967,248592,1124624
+6249,0500000US44005,44005,"Newport County, Rhode Island",0,Total for all sectors,2012,2701,30182,276170,1200690
+6269,0500000US44005,44005,"Newport County, Rhode Island",0,Total for all sectors,2013,2710,29934,271595,1162443
+6290,0500000US44005,44005,"Newport County, Rhode Island",0,Total for all sectors,2014,2715,30089,328821,1385280
+6311,0500000US44005,44005,"Newport County, Rhode Island",0,Total for all sectors,2015,2748,30220,293578,1312765
+6332,0500000US44005,44005,"Newport County, Rhode Island",0,Total for all sectors,2010,2758,28719,239650,1102508
+6353,0500000US44007,44007,"Providence County, Rhode Island",0,Total for all sectors,2011,15561,254281,2724272,11179195
+6374,0500000US44007,44007,"Providence County, Rhode Island",0,Total for all sectors,2012,15505,251373,2851464,11117380
+6395,0500000US44007,44007,"Providence County, Rhode Island",0,Total for all sectors,2013,15524,254490,2935089,11486107
+6416,0500000US44007,44007,"Providence County, Rhode Island",0,Total for all sectors,2014,15563,263991,3296234,12720221
+6437,0500000US44007,44007,"Providence County, Rhode Island",0,Total for all sectors,2015,15696,264537,3199396,12696862
+6458,0500000US44007,44007,"Providence County, Rhode Island",0,Total for all sectors,2010,15836,247734,2648353,10946633
+6479,0500000US44009,44009,"Washington County, Rhode Island",0,Total for all sectors,2011,3754,40263,389784,1684778
+6500,0500000US44009,44009,"Washington County, Rhode Island",0,Total for all sectors,2012,3754,39713,406790,1708168
+6521,0500000US44009,44009,"Washington County, Rhode Island",0,Total for all sectors,2013,3723,40756,419845,1759339
+6542,0500000US44009,44009,"Washington County, Rhode Island",0,Total for all sectors,2014,3739,41953,437034,1881442
+6563,0500000US44009,44009,"Washington County, Rhode Island",0,Total for all sectors,2015,3772,42441,457383,1975018
+6584,0500000US44009,44009,"Washington County, Rhode Island",0,Total for all sectors,2010,3791,39287,356116,1615898
+6605,0500000US50001,50001,"Addison County, Vermont",0,Total for all sectors,2011,1152,12307,101377,416623
+6626,0500000US50001,50001,"Addison County, Vermont",0,Total for all sectors,2012,1158,12409,102025,433920
+6647,0500000US50001,50001,"Addison County, Vermont",0,Total for all sectors,2013,1139,12178,106968,462187
+6668,0500000US50001,50001,"Addison County, Vermont",0,Total for all sectors,2014,1152,13300,114635,494677
+6689,0500000US50001,50001,"Addison County, Vermont",0,Total for all sectors,2015,1170,14191,126990,560295
+6710,0500000US50001,50001,"Addison County, Vermont",0,Total for all sectors,2010,1181,12037,90972,417217
+6731,0500000US50003,50003,"Bennington County, Vermont",0,Total for all sectors,2011,1439,14433,115162,501668
+6751,0500000US50003,50003,"Bennington County, Vermont",0,Total for all sectors,2012,1412,14730,125209,519026
+6771,0500000US50003,50003,"Bennington County, Vermont",0,Total for all sectors,2013,1403,15194,126045,533943
+6791,0500000US50003,50003,"Bennington County, Vermont",0,Total for all sectors,2014,1385,15173,128380,538670
+6811,0500000US50003,50003,"Bennington County, Vermont",0,Total for all sectors,2015,1395,15456,126267,551338
+6831,0500000US50003,50003,"Bennington County, Vermont",0,Total for all sectors,2010,1483,14767,114935,506787
+6851,0500000US50005,50005,"Caledonia County, Vermont",0,Total for all sectors,2011,930,9182,74104,318305
+6872,0500000US50005,50005,"Caledonia County, Vermont",0,Total for all sectors,2012,944,8799,73917,309380
+6892,0500000US50005,50005,"Caledonia County, Vermont",0,Total for all sectors,2013,944,9094,76700,320512
+6913,0500000US50005,50005,"Caledonia County, Vermont",0,Total for all sectors,2014,925,8801,75259,318472
+6934,0500000US50005,50005,"Caledonia County, Vermont",0,Total for all sectors,2015,901,8739,74347,324742
+6955,0500000US50005,50005,"Caledonia County, Vermont",0,Total for all sectors,2010,929,9051,69025,303101
+6976,0500000US50007,50007,"Chittenden County, Vermont",0,Total for all sectors,2011,5431,84605,905805,3822279
+6997,0500000US50007,50007,"Chittenden County, Vermont",0,Total for all sectors,2012,5469,84151,860851,3605749
+7018,0500000US50007,50007,"Chittenden County, Vermont",0,Total for all sectors,2013,5523,89448,975177,3952924
+7039,0500000US50007,50007,"Chittenden County, Vermont",0,Total for all sectors,2014,5552,86656,915393,3812930
+7060,0500000US50007,50007,"Chittenden County, Vermont",0,Total for all sectors,2015,5607,88809,942921,3974045
+7081,0500000US50007,50007,"Chittenden County, Vermont",0,Total for all sectors,2010,5503,85348,870607,3722779
+7102,0500000US50009,50009,"Essex County, Vermont",0,Total for all sectors,2011,122,503,3022,13954
+7120,0500000US50009,50009,"Essex County, Vermont",0,Total for all sectors,2012,115,503,3009,13195
+7137,0500000US50009,50009,"Essex County, Vermont",0,Total for all sectors,2013,116,494,3242,13872
+7154,0500000US50009,50009,"Essex County, Vermont",0,Total for all sectors,2014,112,505,3455,15674
+7171,0500000US50009,50009,"Essex County, Vermont",0,Total for all sectors,2015,116,484,3238,16024
+7188,0500000US50009,50009,"Essex County, Vermont",0,Total for all sectors,2010,115,470,2930,13659
+7205,0500000US50011,50011,"Franklin County, Vermont",0,Total for all sectors,2011,984,11983,93643,411700
+7225,0500000US50011,50011,"Franklin County, Vermont",0,Total for all sectors,2012,1013,11606,95663,413659
+7246,0500000US50011,50011,"Franklin County, Vermont",0,Total for all sectors,2013,1020,12038,104324,439196
+7266,0500000US50011,50011,"Franklin County, Vermont",0,Total for all sectors,2014,1009,12403,112142,462832
+7285,0500000US50011,50011,"Franklin County, Vermont",0,Total for all sectors,2015,1011,12599,116635,483811
+7304,0500000US50011,50011,"Franklin County, Vermont",0,Total for all sectors,2010,1023,11964,88888,400051
+7324,0500000US50013,50013,"Grand Isle County, Vermont",0,Total for all sectors,2011,180,636,3980,21017
+7341,0500000US50013,50013,"Grand Isle County, Vermont",0,Total for all sectors,2012,190,695,4505,21754
+7357,0500000US50013,50013,"Grand Isle County, Vermont",0,Total for all sectors,2013,180,624,4149,20555
+7373,0500000US50013,50013,"Grand Isle County, Vermont",0,Total for all sectors,2014,178,621,4073,21389
+7388,0500000US50013,50013,"Grand Isle County, Vermont",0,Total for all sectors,2015,185,660,4312,23257
+7403,0500000US50013,50013,"Grand Isle County, Vermont",0,Total for all sectors,2010,193,628,3671,19506
+7420,0500000US50015,50015,"Lamoille County, Vermont",0,Total for all sectors,2011,969,10183,69912,293260
+7440,0500000US50015,50015,"Lamoille County, Vermont",0,Total for all sectors,2012,943,10603,79796,311593
+7459,0500000US50015,50015,"Lamoille County, Vermont",0,Total for all sectors,2013,944,10592,80028,313634
+7479,0500000US50015,50015,"Lamoille County, Vermont",0,Total for all sectors,2014,958,10923,84745,339727
+7499,0500000US50015,50015,"Lamoille County, Vermont",0,Total for all sectors,2015,950,11502,88612,351479
+7519,0500000US50015,50015,"Lamoille County, Vermont",0,Total for all sectors,2010,970,9616,63524,268509
+7539,0500000US50017,50017,"Orange County, Vermont",0,Total for all sectors,2011,776,5991,47560,209711
+7560,0500000US50017,50017,"Orange County, Vermont",0,Total for all sectors,2012,775,6117,51497,219066
+7581,0500000US50017,50017,"Orange County, Vermont",0,Total for all sectors,2013,766,6169,51352,220851
+7602,0500000US50017,50017,"Orange County, Vermont",0,Total for all sectors,2014,758,6165,53109,231458
+7623,0500000US50017,50017,"Orange County, Vermont",0,Total for all sectors,2015,753,6312,55002,246185
+7643,0500000US50017,50017,"Orange County, Vermont",0,Total for all sectors,2010,779,6043,46088,204490
+7664,0500000US50019,50019,"Orleans County, Vermont",0,Total for all sectors,2011,813,7744,54168,242200
+7685,0500000US50019,50019,"Orleans County, Vermont",0,Total for all sectors,2012,811,7994,57709,244681
+7705,0500000US50019,50019,"Orleans County, Vermont",0,Total for all sectors,2013,793,8190,60995,253276
+7726,0500000US50019,50019,"Orleans County, Vermont",0,Total for all sectors,2014,775,8059,62351,261582
+7746,0500000US50019,50019,"Orleans County, Vermont",0,Total for all sectors,2015,777,8244,64132,276228
+7767,0500000US50019,50019,"Orleans County, Vermont",0,Total for all sectors,2010,831,7733,49526,227259
+7788,0500000US50021,50021,"Rutland County, Vermont",0,Total for all sectors,2011,2215,24452,196897,814892
+7809,0500000US50021,50021,"Rutland County, Vermont",0,Total for all sectors,2012,2189,24434,203825,830856
+7830,0500000US50021,50021,"Rutland County, Vermont",0,Total for all sectors,2013,2166,24163,216278,869444
+7851,0500000US50021,50021,"Rutland County, Vermont",0,Total for all sectors,2014,2130,24533,215651,878919
+7872,0500000US50021,50021,"Rutland County, Vermont",0,Total for all sectors,2015,2135,23780,213446,889749
+7893,0500000US50021,50021,"Rutland County, Vermont",0,Total for all sectors,2010,2238,24408,188665,797842
+7914,0500000US50023,50023,"Washington County, Vermont",0,Total for all sectors,2011,2211,25932,238584,1001634
+7935,0500000US50023,50023,"Washington County, Vermont",0,Total for all sectors,2012,2236,26849,253390,1049605
+7956,0500000US50023,50023,"Washington County, Vermont",0,Total for all sectors,2013,2217,25548,251207,1048334
+7977,0500000US50023,50023,"Washington County, Vermont",0,Total for all sectors,2014,2230,26064,269454,1122952
+7998,0500000US50023,50023,"Washington County, Vermont",0,Total for all sectors,2015,2242,27085,276846,1162050
+8019,0500000US50023,50023,"Washington County, Vermont",0,Total for all sectors,2010,2236,26404,229092,967260
+8040,0500000US50025,50025,"Windham County, Vermont",0,Total for all sectors,2011,1769,21387,176975,708951
+8061,0500000US50025,50025,"Windham County, Vermont",0,Total for all sectors,2012,1742,21103,185263,713254
+8082,0500000US50025,50025,"Windham County, Vermont",0,Total for all sectors,2013,1726,21909,198158,746262
+8103,0500000US50025,50025,"Windham County, Vermont",0,Total for all sectors,2014,1708,21059,202879,778376
+8124,0500000US50025,50025,"Windham County, Vermont",0,Total for all sectors,2015,1696,21452,211117,814814
+8145,0500000US50025,50025,"Windham County, Vermont",0,Total for all sectors,2010,1822,21362,166391,687663
+8166,0500000US50027,50027,"Windsor County, Vermont",0,Total for all sectors,2011,2077,28136,174459,713492
+8187,0500000US50027,50027,"Windsor County, Vermont",0,Total for all sectors,2012,2052,28512,184200,751758
+8208,0500000US50027,50027,"Windsor County, Vermont",0,Total for all sectors,2013,2043,19669,180259,761642
+8229,0500000US50027,50027,"Windsor County, Vermont",0,Total for all sectors,2014,2016,19747,187779,772418
+8250,0500000US50027,50027,"Windsor County, Vermont",0,Total for all sectors,2015,2006,19901,188184,799490
+8271,0500000US50027,50027,"Windsor County, Vermont",0,Total for all sectors,2010,2099,28234,166718,694126
+8292,0100000US,1,United States,0,Total for all sectors,2010,7396628,111970095,1200243637,4940983369
+8313,0100000US,1,United States,0,Total for all sectors,2011,7354043,113425965,1278564448,5164897905
+8334,0100000US,1,United States,0,Total for all sectors,2012,7431808,115938468,1364679729,5414255995
+8355,0100000US,1,United States,0,Total for all sectors,2013,7488353,118266253,1411380886,5621697325
+8376,0100000US,1,United States,0,Total for all sectors,2014,7563084,121069944,1504360589,5940186911
+8397,0100000US,1,United States,0,Total for all sectors,2015,7663938,124085947,1576288214,6253488252
