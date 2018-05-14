@@ -3,8 +3,9 @@ import os
 
 os.chdir('/Users/work-pc/Documents/GitHub/ThesisPaper1P2')
 df = pd.read_csv('NESdata.csv')
-#df2 = pd.read_csv('NESdata.csv')
 
+
+###FOR MARKET SHARES
 ''' Replace all D and S values with 0 '''
 df = df.replace('D', 0)
 df = df.replace('S', 0)
@@ -56,13 +57,25 @@ for county in df['Id2'].unique():
             
             percent_done = len(shares) / total_passes
             print(percent_done*100, '% done.')
-            
-            df.to_csv('marketshares.csv')
+            shares.sort_values(['County','Year'])
+            shares.to_csv('marketshares.csv')
+          
 ''' The dataframe 'data' is now filled out. Save to file '''
 
 
 
 df=pd.read_csv('NESdata.csv', header=0)
+df = df.replace('D', 0)
+df = df.replace('S', 0)
+df = df.replace('a', 9)
+df=df.replace('b', 59)
+df=df.replace('c',174)
+df=df.replace('e',374)  
+df=df.replace('f', 749)
+df=df.replace('g',1750)
+df=df.replace('h',3749) 
+df=df.replace('i',7499)
+df=df.replace('j',17499)
 df=df.replace('31-33',32)
 df=df.replace('44-45',44)
 df=df.replace('48-49',48)
@@ -73,7 +86,7 @@ df = df.loc[~mask]
 
 def var_rates(df, county, year):
    df = df[(df['Year']==year) & (df['Id2']==county)]           # restrict df to only relevant year
-   emprate = df['Employment'].astype(float).sum()     # don't forget to convert strings to floats before summing
+   emprate = df['Employment'].astype(float) .sum()    # don't forget to convert strings to floats before summing
    return emprate
     
 growth = pd.DataFrame(columns = ['Id2', 'Year', 'Employment', 'Rate'])
@@ -83,13 +96,34 @@ for county in df['Id2'].unique():
     for year in df['Year'].unique():
         temp = pd.DataFrame(index = [len(growth)], columns = ['Id2', 'Year', 'Employment', 'Rate'])
         temp[['Id2', 'Year']] = [county, year]
-        temp['Employment'] = var_rates(df, county, year)
+        temp['Employment']= var_rates(df, county, year)
         growth = growth.append(temp)
         
         percent_done = len(growth) / index
         print(percent_done*100, '% done.')
+        df.to_csv('totalemp.csv')
 
-temp[['Rate']]=var_rates(df, Id2, Year)
+''' The dataframe 'data' is now filled out. Saved to file '''        
 
+
+
+
+df=pd.read_csv('NESdata.csv', header=0)
+df = df.replace('D', 0)
+df = df.replace('S', 0)
+df = df.replace('a', 9)
+df=df.replace('b', 59)
+df=df.replace('c',174)
+df=df.replace('e',374)  
+df=df.replace('f', 749)
+df=df.replace('g',1750)
+df=df.replace('h',3749) 
+df=df.replace('i',7499)
+df=df.replace('j',17499)
+df=df.replace('31-33',32)
+df=df.replace('44-45',44)
+df=df.replace('48-49',48)
+
+df.sort_values(['Id2','Year'])
 
 
